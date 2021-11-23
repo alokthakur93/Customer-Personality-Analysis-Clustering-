@@ -35,10 +35,9 @@
 Includes following steps:
 1. Finding optimal number of clusters using Elbow curve.
 ![](https://raw.githubusercontent.com/alokthakur93/Customer-Personality-Analysis-Clustering-/main/Image/1.PNG)
-2. Using 4 clusters as it can be observed from above graph.
-3. Data distribution among 4 clusters:
+2. Data distribution among 4 clusters:
 ![](https://raw.githubusercontent.com/alokthakur93/Customer-Personality-Analysis-Clustering-/main/Image/2.PNG)
-4. Plotting Clusters based on Income and Spent:
+3. Plotting Clusters based on Income and Spent:
 ![](https://raw.githubusercontent.com/alokthakur93/Customer-Personality-Analysis-Clustering-/main/Image/3.PNG)
 
 **Income vs  spending plot shows the clusters pattern**
